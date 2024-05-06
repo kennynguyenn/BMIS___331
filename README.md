@@ -10,11 +10,8 @@ This scraper scrapes:
 - Indeed job search for finding job listings
 - Indeed job pages for job listing datasets
 
-For output examples see the `./results` directory.
+For output, see the `./results` directory.
 
-## Fair Use Disclaimer
-
-Note that this code is provided free of charge as is, and Scrapfly does __not__ provide free web scraping support or consultation. For any bugs, see the issue tracker.
 
 ## Setup and Use
 
@@ -40,7 +37,13 @@ This Indeed.com scraper uses __Python 3.10__ with [scrapfly-sdk](https://pypi.or
     $ poetry install --with dev
     $ poetry run pytest test.py
     # or specific scraping areas
-    $ poetry run pytest test.py -k test_search_scraping
-    $ poetry run pytest test.py -k test_job_scraping
-    ```
+
+
+## Comparison
+0. set up Tika in the tika files and run the server
+1. change the path in the extracttika.py to the path to your resume
+2. run the compare.py located in tika
+
+
+FOR MORE INFORMATION ON HOW TO USE, VISIT THIS LINK: 
 
