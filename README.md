@@ -45,5 +45,5 @@ This Indeed.com scraper uses __Python 3.10__ with [scrapfly-sdk](https://pypi.or
 2. run the compare.py located in tika
 
 
-FOR MORE INFORMATION ON HOW TO USE, VISIT THIS LINK: 
+FOR MORE INFORMATION ON HOW TO USE, VISIT THIS LINK: https://drive.google.com/file/d/1uEhYi4Y9Lpx7xAvH8iEPTa-04j9JJAJJ/view?usp=sharing
 
